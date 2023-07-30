@@ -1,1 +1,1 @@
-#developmnent
+#developmnent with ours strategy 
