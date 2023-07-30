@@ -1,1 +1,1 @@
-# main settings
+# development settings
