@@ -1,1 +1,3 @@
-# main settings
+# deveopment settings
+
+#developemnt lajk
