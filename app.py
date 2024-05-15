@@ -5,3 +5,5 @@ print(my_var)
 # additions to the app file
 
 # addition 2 to app
+
+# addition 3 to the app
