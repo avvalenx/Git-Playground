@@ -1,1 +1,1 @@
-# development settings
+# production settings
